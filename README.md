@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imamfh24
 - 👀 I’m interested in Mobile Apps and Game Apps
-- 🌱 I’m currently learning Flutter
+<!-- - 🌱 I’m currently learning Flutter -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
